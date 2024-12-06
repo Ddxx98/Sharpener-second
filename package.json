@@ -1,5 +1,17 @@
 {
+  "name": "sharpener-second",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "app.js",
+    "start" : "app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
   "dependencies": {
-    "http": "^0.0.1-security"
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "nodemon": "^3.1.7"
   }
 }
